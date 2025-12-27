@@ -1,7 +1,7 @@
 # Monexo v2
 ---
 
-### Monexo is financas application help you to manage and tracking your consuming, incoming, expern, financas goals, saving box and more
+### Monexo is financas application help you to manage and tracking your consuming, incoming, expenses, financas goals, saving box and more
 ---
 
 ## Features 🐱‍💻:
